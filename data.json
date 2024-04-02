@@ -1,0 +1,122 @@
+[
+    {
+        "badHabit": "Finger picking",
+        "aaaLevel": "aaaa",
+        "annoyanceLevel": 1
+    },
+    {
+        "badHabit": "Smoking cigarettes",
+        "aaaLevel": "aaaa",
+        "annoyanceLevel": 0.95
+    },
+    {
+        "badHabit": "Nail clippings",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.5
+    },
+    {
+        "badHabit": "Popping gum",
+        "aaaLevel": "aaaa",
+        "annoyanceLevel": 0.85
+    },
+    {
+        "badHabit": "Not sleeping",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.4
+    },
+    {
+        "badHabit": "Grammar mistakes",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.65
+    },
+    {
+        "badHabit": "Cracking joints",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.3
+    },
+    {
+        "badHabit": "Disorganization",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.6
+    },
+    {
+        "badHabit": "Coaster avoidance",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.25
+    },
+    {
+        "badHabit": "Getting tickets",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.2
+    },
+    {
+        "badHabit": "Frivolous spending",
+        "aaaLevel": "aaaa",
+        "annoyanceLevel": 0.7
+    },
+    {
+        "badHabit": "Sleeping with makeup",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.45
+    },
+    {
+        "badHabit": "Lying",
+        "aaaLevel": "aaaa",
+        "annoyanceLevel": 0.85
+    },
+    {
+        "badHabit": "Bad posture",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.3
+    },
+    {
+        "badHabit": "Littering",
+        "aaaLevel": "aaaa",
+        "annoyanceLevel": 0.9
+    },
+    {
+        "badHabit": "Collecting cups",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.25
+    },
+    {
+        "badHabit": "Nose picking",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.55
+    },
+    {
+        "badHabit": "Eating fast food",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.15
+    },
+    {
+        "badHabit": "Avoiding eye contact",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.45
+    },
+    {
+        "badHabit": "Phone usage in bed",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.5
+    },
+    {
+        "badHabit": "Cheek biting",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.1
+    },
+    {
+        "badHabit": "Copying",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.3
+    },
+    {
+        "badHabit": "Chewing hair",
+        "aaaLevel": "aa",
+        "annoyanceLevel": 0.05
+    },
+    {
+        "badHabit": "Nail biting",
+        "aaaLevel": "aaa",
+        "annoyanceLevel": 0.35
+    }
+]
